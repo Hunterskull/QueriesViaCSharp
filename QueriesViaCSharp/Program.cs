@@ -56,7 +56,6 @@ namespace QueriesViaCSharp
                     data.Dump();
                 }
                 conn.Close();
-              
             }
         }
     }
